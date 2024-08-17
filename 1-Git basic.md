@@ -36,7 +36,7 @@ git add -A
 ```
 git status
 
-    ?? - Untracked files
+    U - Untracked files
     A - Files added to stage
     M - Modified files
     D - Deleted files
